@@ -209,7 +209,32 @@
 
 
 
-@media only screen and (max-width: 490px) and (min-width: 401px){
+@media only screen and (max-width: 405px) and (min-width: 381px){
+    p.top-bonus-p-middle {
+        font-size: 15px;
+    }
+
+    .game-top-list-bonus.top-list-bonus-sm {
+        transform: translateY(-55px);
+    }
+
+    .list-item-feature {
+        position: relative;
+        top: 0;
+        transform: translateY(-12px);
+    }
+
+    .list-item-feature > ul > li {
+        font-weight: 700;
+    }
+
+    .game-top-list-card {
+        height: 295px;
+    }
+
+    .brand-name-border-2 {
+        height: 135px;
+    }
 }
 
 @media only screen and (max-width: 380px) and (min-width: 360px){
