@@ -262,7 +262,7 @@ p.top-bonus-p-bottom {
   align-items: center;
   gap: 4px;
   font-family: var(--font-1-inter);
-  font-weight: var(--fw-500);
+  font-weight: var(--fw-600);
   font-size: var(--font-size-p-4);
   color: rgb(49, 48, 48);
   line-height: 30px;
