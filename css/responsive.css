@@ -219,7 +219,7 @@
     }
 
     p.top-bonus-p-middle {
-        font-size: 14px;
+        font-size: 13px;
     }
 
     .game-top-list-bonus.top-list-bonus-sm {
@@ -249,7 +249,12 @@
     }
 
     .game-top-list-bonus.top-list-bonus-sm {
-        transform: translateY(-55px);
+        transform: translateY(-45px);
+    }
+
+    p.top-bonus-p-middle {
+        font-size: 12px;
+        line-height: 18px;
     }
 
     p.top-bonus-p-top {
