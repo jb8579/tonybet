@@ -149,8 +149,7 @@
 
     .brand-game-logo a > img {
         width: 100%;
-        height: fit-content;
-        max-height: -webkit-fill-available;
+        height: auto;
     }
 
     .list-item-feature > ul > li {
