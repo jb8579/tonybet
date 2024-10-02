@@ -419,7 +419,7 @@ p.top-bonus-p-bottom {
   width: 80px;
   height: 5px;
   background: var(--orange-color);
-  transform: translate(450px, 30px);
+  transform: translate(430px, 35px);
 }
 
 .top-collection .slider {
