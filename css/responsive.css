@@ -2,6 +2,11 @@
     .header-img {
         display: none;
     }
+    
+    .brand-name-border-3{
+        border-right: none;
+        padding-left: 0px;
+    }
 
     .header-img > img {
         width: 100%;
@@ -30,7 +35,7 @@
     .header-bg {
         height: auto;
         padding: 30px 0px 40px 0px;
-        margin-bottom: 60px;
+        margin-bottom: 30px;
         clip-path: none;
         shape-outside: none;
         border-bottom-right-radius: 100px;
@@ -223,6 +228,16 @@
 
     img.footer-ico.footer-icon-sm-1 {
         max-width: 150px;
+    }
+
+    .game-top-list-card {
+        height: 300px;
+    }
+
+    .brand-name-border-2 {
+        border-right: 1px solid rgba(128, 128, 128, 0.288);
+        padding-left: 0px;
+        height: 138px;
     }
 
 }

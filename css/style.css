@@ -194,6 +194,11 @@ button.btn-sign-up{
   padding-left: 0px;
 }
 
+.brand-name-border-3{
+  border-right: 1px solid rgba(128, 128, 128, 0.288);
+  padding-left: 0px;
+}
+
 .brand-game-logo {
   text-align: center;
 }
